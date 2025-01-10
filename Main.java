@@ -9,7 +9,6 @@ public class Main {
         System.out.println("Oswaldo");
         //lucas is big dawg
         System.out.println("Hello World Reese Oo");
-
         System.out.println("Hello World Richard");
 
     }
